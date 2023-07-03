@@ -31,7 +31,7 @@ setuptools.setup(
         "Pygments==2.8.1",
         "pyparsing==2.4.7",
         "pytest==6.2.2",
-        "python-dateutil==2.8.1",
+        "python-dateutil==2.8.2",
         "pytz==2021.1",
         "requests==2.25.1",
         "six==1.15.0",
