@@ -24,7 +24,7 @@ setuptools.setup(
         "icecream==2.1.0",
         "idna==2.10",
         "iniconfig==1.1.1",
-        "numpy==1.18.0",
+        "numpy==1.21.0",
         "packaging==21.3",
         "pandas==1.5.3",
         "pluggy==0.13.1",
