@@ -38,7 +38,6 @@ setuptools.setup(
         "six==1.15.0",
         "soupsieve==2.2",
         "toml==0.10.2",
-        "xarray==21.3",
         "urllib3==1.26.3"
     ],
     classifiers=[
